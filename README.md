@@ -21,6 +21,11 @@ Both Customers and Admin is verified using JWT token and passwords of the Custom
 
 Admin users can CREATE, READ, UPDATE AND DELETE the information of the books whereas Customers can only perform READ operation the book.
 
+## Different routes in API development (tested using Postman API):
+
+![image](https://github.com/user-attachments/assets/4afa56fc-9f81-42c8-bf5a-a7cdb24a9ff1)
+
+
 Customers can visit the home/ about pages whereas Admins can visit home/ about pages and admin pages.
 
 ## Conclusion
